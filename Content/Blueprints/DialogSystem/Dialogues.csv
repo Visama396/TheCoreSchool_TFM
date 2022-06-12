@@ -1,0 +1,8 @@
+,NPC_ID,Conversation_ID,Line_ID,Character_Name,Text,Question?,Answer_ID,Answer_Text,Next_Line_ID,Object
+1,1,1,1,,Hola,No,,,,
+2,1,1,2,,Who are you?,Yes,1,Carlos,3,
+3,1,1,2,,Who are you?,Yes,2,You do not care,5,
+4,1,1,3,,Nice To meet you,No,Null,Null,,
+5,1,1,5,,Fuck you,No,Null,Null,,
+6,1,1,6,,asdf,No,,,,
+7,2,1,1,,Buenos dias,No,,,,
